@@ -1,5 +1,5 @@
 from flask import Flask
-from textblob import TextBlob
+# from textblob import TextBlob
 
 app = Flask(__name__)
 

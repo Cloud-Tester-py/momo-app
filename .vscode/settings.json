@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "c:\\Users\\Fatima.Ibrahim\\Desktop\\MoMo\\Python\\Py_Institute_examples\\pyvenv\\Scripts\\python.exe",
+
+    // Is git enabled
+    "git.enabled": true,
+
+    // Path to the git executable
+    "git.path": "C:\\Users\\Fatima.Ibrahim\\AppData\\Local\\Programs\\Git\\cmd\\git.exe",
+}
